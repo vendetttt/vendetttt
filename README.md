@@ -15,4 +15,4 @@
 
 Чтобы стать успешным скуфом
 
-![mygif]()
+![mygif](https://imgur.com/a/ttHLVje)
