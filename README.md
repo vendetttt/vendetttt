@@ -10,7 +10,6 @@
 # 🔗 **Ссылки**
 ### <img src="gun-squirt.png" alt="drawing" width="24"/> Био - https://guns.lol/altmanager
 ### <img src="discord.png" alt="drawing" width="24"/> Дискорд - https://discord.com/users/973188007148539944
-### <img src="telegram.png" alt="drawin" width="24"/> Телеграм - https://t.me/notshavel
 
 # 🛠 **Языки и инструменты**
 <img src="051683382f8a9d0f518bd9a2ee9da2b5.png" alt="drawin" width="64"/> <img src="cpp_logo.png" alt="drawin" width="64"/> <img src="vscode.png" alt="drawin" width="64"/>
